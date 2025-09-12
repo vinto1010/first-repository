@@ -7,4 +7,4 @@ def print_KIT():
 
 if __name__ == "__main__":
     print_KIT()
-    print( add(1,2) )
+    print(add(1,2))
